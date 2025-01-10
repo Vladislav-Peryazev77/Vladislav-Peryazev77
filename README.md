@@ -9,4 +9,5 @@ Passionate about creating clean, maintainable code and enhancing the user experi
 Now focused on mastering architecture and contributing to meaningful projects that combine cutting-edge technologies with seamless UX and beautiful UI.
 
 I love solving complex problems, inspiring teams, building visually appealing interfaces, traveling, and discovering new ways to improve user interactions.
+
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vladislav-peryazev/) • [Email](vladperyazev14@gmail.com) • [Resume](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
