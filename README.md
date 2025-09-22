@@ -11,4 +11,4 @@ Now focused on mastering architecture and contributing to meaningful projects th
 I love solving complex problems, inspiring teams, building visually appealing interfaces, traveling, and discovering new ways to improve user interactions.
 
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vladislav-peryazev/) • [Email](mailto:vladperyazev14@gmail.com) • [Resume](https://drive.google.com/file/d/17szbBd1s2JbA45a9s3rJg1gxeuU77IXY/view)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vlad-vivian/) • [Email](mailto:vladperyazev14@gmail.com) • [Resume](https://drive.google.com/file/d/1W-YoxIWQLsrKzLDvKFTjlNZyBpm1XbvS/view)
