@@ -1,4 +1,4 @@
-Frontend Developer with over 5 years of experience specializing in React.js, Next.js, and TypeScript. Strong focus on performance optimization and building reusable, scalable components. Proven expertise in mentoring junior developers and fostering their growth in IT.
+Frontend Developer with over 7 years of experience specializing in React.js, Next.js, and TypeScript. Strong focus on performance optimization and building reusable, scalable components. Proven expertise in mentoring junior developers and fostering their growth in IT.
 
 Well-versed in modern frontend technologies and frameworks, with professional experience delivering high-performance and user-friendly applications for global-scale projects.
 
